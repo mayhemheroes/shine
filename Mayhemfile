@@ -2,4 +2,4 @@ project: jacob-clemente/shine
 target: shine
 
 cmds:
-  - cmd: /shine @@
+  - cmd: /shine @@ out
