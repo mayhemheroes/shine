@@ -1,0 +1,5 @@
+project: jacob-clemente/shine
+target: shine
+
+cmds:
+  - cmd: /shine @@
