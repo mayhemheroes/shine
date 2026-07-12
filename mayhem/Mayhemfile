@@ -1,0 +1,6 @@
+project: mayhemheroes/shine
+target: shine
+
+cmds:
+  - cmd: /mayhem/shine
+    libfuzzer: true
